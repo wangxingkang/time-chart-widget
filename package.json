@@ -1,6 +1,6 @@
 {
   "name": "time-chart-widget",
-  "packageManager": "pnpm@10.8.1",
+  "packageManager": "pnpm@10.10.0",
   "description": "事件选择小部件",
   "license": "MIT",
   "scripts": {
